@@ -14,7 +14,7 @@ public class FakeRepo implements FakeRepoInterFace {
     public String insertUser(long Id, String name, String surname) {
         User users = new User(1,name,surname);
         newUser.add(users);
-        return "Name: "+name;
+        return name + " Entered";
         }
 
     @Override
