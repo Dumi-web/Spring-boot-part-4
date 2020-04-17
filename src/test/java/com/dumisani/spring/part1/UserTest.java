@@ -11,15 +11,18 @@ public class UserTest {
     public UserServicesImpl user;
     @Test
     public void addUser(){
-        assertEquals("Dumisani Entered",user.addUser(1,"Dumisani","Ngobeni"));
+        String newName = user.addUser(1,"Dumisani","Ngobeni");
+        assertThat(newName).isEqualTo("Dumisani Entered");
     }
     @Test
     public void getUser(){
-        assertEquals("Hello Dumisani Ngobeni",user.getUser(1));
+        String name = user.getUser(1);
+        assertThat(name).isEqualTo("Hello Dumisani Ngobeni");
     }
     @Test
     public void removeUser(){
-        assertEquals("Dumisani Removed",user.removeUser(1));
+        String Nam = user.removeUser(1);
+        assertThat(Nam).isEqualTo("Dumisani Removed");
     }
 
 }
