@@ -1,16 +1,42 @@
 package com.dumisani.spring.part1;
 
+import com.dumisani.spring.part1.wsdl.*;
+import org.springframework.boot.CommandLineRunner;
 import org.springframework.boot.SpringApplication;
 import org.springframework.boot.autoconfigure.SpringBootApplication;
+import org.springframework.context.annotation.Bean;
+
+import java.net.MalformedURLException;
+import java.net.URL;
 
 @SpringBootApplication
 public class Main {
 
     public static void main(String[] args) {
-        UserServicesImpl users = new UserServicesImpl();
         SpringApplication.run(Main.class, args);
-        System.out.println(users.addUser(1,"Dumisani","Ngobeni"));
-        System.out.println(users.getUser(1));
-        System.out.println(users.removeUser(1));
+    }
+
+    @Bean
+    CommandLineRunner lookup() throws MalformedURLException {
+        URL url = new URL("http://localhost:9090/ws/countries.wsdl");
+        CountriesPortService employeeService_Service = new CountriesPortService(url);
+        CountriesPort employeeServiceProxy = employeeService_Service.getCountriesPortSoap11();
+        GetCountryRequest request = new GetCountryRequest();
+        request.setName("United Kingdom");
+
+        GetCountryResponse response = employeeServiceProxy.getCountry(request);
+
+        Currency currency = response.getCountry().getCurrency();
+        String capital = response.getCountry().getCapital();
+        int population = response.getCountry().getPopulation();
+
+        System.out.println("Currency: " + currency);
+        System.out.println("Capital: " + capital);
+        System.out.println("Population " + population);
+        return null;
+
     }
 }
+
+
+

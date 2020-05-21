@@ -1,5 +1,6 @@
 package com.dumisani.spring.part1;
 
+
 public class User  {
     private long Id;
     private String name;
