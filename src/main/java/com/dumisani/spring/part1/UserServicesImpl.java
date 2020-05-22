@@ -1,10 +1,14 @@
 package com.dumisani.spring.part1;
 
 import org.springframework.beans.factory.annotation.Autowired;
+import org.springframework.http.ResponseEntity;
 import org.springframework.stereotype.Service;
+import org.springframework.web.client.RestTemplate;
 
 @Service
 public class UserServicesImpl implements UserServices {
+    @Autowired
+    public RestTemplate template;
     @Autowired
     static FakeRepo fakeRepo;
     @Override
@@ -23,6 +27,13 @@ public class UserServicesImpl implements UserServices {
         fakeRepo = new FakeRepo();
         return fakeRepo.deleteUser(1);
     }
+@Override
+public  String getGit(){
+    RestTemplate template = new RestTemplate();
+    String userResourceUrl = "https://api.github.com";
 
-
+    ResponseEntity<String> response = template.getForEntity(userResourceUrl + "/orgs/octokit/repos", String.class);
+    System.out.println("response " + response.toString());
+    return response.toString();
+}
 }
