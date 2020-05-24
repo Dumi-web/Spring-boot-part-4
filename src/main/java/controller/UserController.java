@@ -14,6 +14,26 @@ public class UserController {
     }
     @Autowired
     UserServices userServices;
+    
+        @GetMapping("/list/commits")
+    public ResponseEntity<String> getCommits() {
+        RestTemplate template = new RestTemplate();
+        String userResourceUrl = "https://api.github.com/repos/dumi-web/addLogs/commits";
+
+        ResponseEntity<String> response = template.getForEntity(userResourceUrl, String.class);
+        System.out.println("response " + response);
+        return response;
+    }
+
+    @GetMapping("/list/repos")
+        public ResponseEntity<String> getGit(){
+            RestTemplate template = new RestTemplate();
+            String userResourceUrl = "https://api.github.com/users/dumi-web/repos";
+
+            ResponseEntity<String> response = template.getForEntity(userResourceUrl, String.class);
+            System.out.println("response " + response);
+            return response;
+        }
     @PutMapping
     public void addUser(@RequestBody User user) {
         userServices.addUser(user.getId(),user.getName(),user.getSurname());
