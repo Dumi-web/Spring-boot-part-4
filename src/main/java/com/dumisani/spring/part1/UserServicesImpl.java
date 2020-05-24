@@ -7,8 +7,7 @@ import org.springframework.web.client.RestTemplate;
 
 @Service
 public class UserServicesImpl implements UserServices {
-    @Autowired
-    public RestTemplate template;
+ 
     @Autowired
     static FakeRepo fakeRepo;
     @Override
