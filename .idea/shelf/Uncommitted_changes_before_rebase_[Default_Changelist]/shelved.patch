@@ -1,0 +1,311 @@
+Index: .idea/workspace.xml
+IDEA additional info:
+Subsystem: com.intellij.openapi.diff.impl.patch.BaseRevisionTextPatchEP
+<+><?xml version=\"1.0\" encoding=\"UTF-8\"?>\n<project version=\"4\">\n  <component name=\"ChangeListManager\">\n    <list default=\"true\" id=\"067a687c-1bbb-48bb-9e58-28fe77230c07\" name=\"Default Changelist\" comment=\"\">\n      <change afterPath=\"$PROJECT_DIR$/.idea/.name\" afterDir=\"false\" />\n      <change beforePath=\"$PROJECT_DIR$/.gradle/5.2.1/executionHistory/executionHistory.bin\" beforeDir=\"false\" afterPath=\"$PROJECT_DIR$/.gradle/5.2.1/executionHistory/executionHistory.bin\" afterDir=\"false\" />\n      <change beforePath=\"$PROJECT_DIR$/.gradle/5.2.1/executionHistory/executionHistory.lock\" beforeDir=\"false\" afterPath=\"$PROJECT_DIR$/.gradle/5.2.1/executionHistory/executionHistory.lock\" afterDir=\"false\" />\n      <change beforePath=\"$PROJECT_DIR$/.gradle/5.2.1/fileHashes/fileHashes.bin\" beforeDir=\"false\" afterPath=\"$PROJECT_DIR$/.gradle/5.2.1/fileHashes/fileHashes.bin\" afterDir=\"false\" />\n      <change beforePath=\"$PROJECT_DIR$/.gradle/5.2.1/fileHashes/fileHashes.lock\" beforeDir=\"false\" afterPath=\"$PROJECT_DIR$/.gradle/5.2.1/fileHashes/fileHashes.lock\" afterDir=\"false\" />\n      <change beforePath=\"$PROJECT_DIR$/.gradle/5.2.1/fileHashes/resourceHashesCache.bin\" beforeDir=\"false\" afterPath=\"$PROJECT_DIR$/.gradle/5.2.1/fileHashes/resourceHashesCache.bin\" afterDir=\"false\" />\n      <change beforePath=\"$PROJECT_DIR$/.gradle/5.2.1/javaCompile/javaCompile.lock\" beforeDir=\"false\" afterPath=\"$PROJECT_DIR$/.gradle/5.2.1/javaCompile/javaCompile.lock\" afterDir=\"false\" />\n      <change beforePath=\"$PROJECT_DIR$/.gradle/5.2.1/javaCompile/taskHistory.bin\" beforeDir=\"false\" afterPath=\"$PROJECT_DIR$/.gradle/5.2.1/javaCompile/taskHistory.bin\" afterDir=\"false\" />\n      <change beforePath=\"$PROJECT_DIR$/.gradle/buildOutputCleanup/buildOutputCleanup.lock\" beforeDir=\"false\" afterPath=\"$PROJECT_DIR$/.gradle/buildOutputCleanup/buildOutputCleanup.lock\" afterDir=\"false\" />\n      <change beforePath=\"$PROJECT_DIR$/.gradle/buildOutputCleanup/outputFiles.bin\" beforeDir=\"false\" afterPath=\"$PROJECT_DIR$/.gradle/buildOutputCleanup/outputFiles.bin\" afterDir=\"false\" />\n      <change beforePath=\"$PROJECT_DIR$/.idea/compiler.xml\" beforeDir=\"false\" afterPath=\"$PROJECT_DIR$/.idea/compiler.xml\" afterDir=\"false\" />\n      <change beforePath=\"$PROJECT_DIR$/.idea/gradle.xml\" beforeDir=\"false\" afterPath=\"$PROJECT_DIR$/.idea/gradle.xml\" afterDir=\"false\" />\n      <change beforePath=\"$PROJECT_DIR$/.idea/misc.xml\" beforeDir=\"false\" afterPath=\"$PROJECT_DIR$/.idea/misc.xml\" afterDir=\"false\" />\n      <change beforePath=\"$PROJECT_DIR$/.idea/workspace.xml\" beforeDir=\"false\" afterPath=\"$PROJECT_DIR$/.idea/workspace.xml\" afterDir=\"false\" />\n      <change beforePath=\"$PROJECT_DIR$/build.gradle\" beforeDir=\"false\" afterPath=\"$PROJECT_DIR$/build.gradle\" afterDir=\"false\" />\n      <change beforePath=\"$PROJECT_DIR$/build/classes/java/main/com/dumisani/spring/part1/FakeRepo.class\" beforeDir=\"false\" afterPath=\"$PROJECT_DIR$/build/classes/java/main/com/dumisani/spring/part1/FakeRepo.class\" afterDir=\"false\" />\n      <change beforePath=\"$PROJECT_DIR$/build/classes/java/main/com/dumisani/spring/part1/Main.class\" beforeDir=\"false\" afterPath=\"$PROJECT_DIR$/build/classes/java/main/com/dumisani/spring/part1/Main.class\" afterDir=\"false\" />\n      <change beforePath=\"$PROJECT_DIR$/build/classes/java/main/com/dumisani/spring/part1/User.class\" beforeDir=\"false\" afterPath=\"$PROJECT_DIR$/build/classes/java/main/com/dumisani/spring/part1/User.class\" afterDir=\"false\" />\n      <change beforePath=\"$PROJECT_DIR$/build/classes/java/main/com/dumisani/spring/part1/UserServicesImpl.class\" beforeDir=\"false\" afterPath=\"$PROJECT_DIR$/build/classes/java/main/com/dumisani/spring/part1/UserServicesImpl.class\" afterDir=\"false\" />\n      <change beforePath=\"$PROJECT_DIR$/build/classes/java/test/com/dumisani/spring/part1/UserTest.class\" beforeDir=\"false\" />\n      <change beforePath=\"$PROJECT_DIR$/build/reports/tests/test/classes/com.dumisani.spring.part1.UserTest.html\" beforeDir=\"false\" />\n      <change beforePath=\"$PROJECT_DIR$/build/reports/tests/test/css/base-style.css\" beforeDir=\"false\" />\n      <change beforePath=\"$PROJECT_DIR$/build/reports/tests/test/css/style.css\" beforeDir=\"false\" />\n      <change beforePath=\"$PROJECT_DIR$/build/reports/tests/test/index.html\" beforeDir=\"false\" />\n      <change beforePath=\"$PROJECT_DIR$/build/reports/tests/test/js/report.js\" beforeDir=\"false\" />\n      <change beforePath=\"$PROJECT_DIR$/build/reports/tests/test/packages/com.dumisani.spring.part1.html\" beforeDir=\"false\" />\n      <change beforePath=\"$PROJECT_DIR$/build/test-results/test/TEST-com.dumisani.spring.part1.UserTest.xml\" beforeDir=\"false\" />\n      <change beforePath=\"$PROJECT_DIR$/build/test-results/test/binary/output.bin\" beforeDir=\"false\" />\n      <change beforePath=\"$PROJECT_DIR$/build/test-results/test/binary/output.bin.idx\" beforeDir=\"false\" />\n      <change beforePath=\"$PROJECT_DIR$/build/test-results/test/binary/results.bin\" beforeDir=\"false\" />\n      <change beforePath=\"$PROJECT_DIR$/src/test/java/com/dumisani/spring/part1/UserTest.java\" beforeDir=\"false\" afterPath=\"$PROJECT_DIR$/src/test/java/com/dumisani/spring/part1/UserTest.java\" afterDir=\"false\" />\n    </list>\n    <option name=\"SHOW_DIALOG\" value=\"false\" />\n    <option name=\"HIGHLIGHT_CONFLICTS\" value=\"true\" />\n    <option name=\"HIGHLIGHT_NON_ACTIVE_CHANGELIST\" value=\"false\" />\n    <option name=\"LAST_RESOLUTION\" value=\"IGNORE\" />\n  </component>\n  <component name=\"ExternalProjectsData\">\n    <projectState path=\"$PROJECT_DIR$\">\n      <ProjectState />\n    </projectState>\n  </component>\n  <component name=\"ExternalProjectsManager\">\n    <system id=\"GRADLE\">\n      <state>\n        <projects_view />\n      </state>\n    </system>\n  </component>\n  <component name=\"FileTemplateManagerImpl\">\n    <option name=\"RECENT_TEMPLATES\">\n      <list>\n        <option value=\"Interface\" />\n        <option value=\"JUnit5 Test Class\" />\n        <option value=\"Class\" />\n        <option value=\"AnnotationType\" />\n      </list>\n    </option>\n  </component>\n  <component name=\"Git.Settings\">\n    <option name=\"RECENT_GIT_ROOT_PATH\" value=\"$PROJECT_DIR$\" />\n  </component>\n  <component name=\"ProjectId\" id=\"1a8YBDt3nYMutTS52LgxGtpADCE\" />\n  <component name=\"ProjectLevelVcsManager\" settingsEditedManually=\"true\">\n    <ConfirmationsSetting value=\"2\" id=\"Add\" />\n  </component>\n  <component name=\"ProjectViewState\">\n    <option name=\"hideEmptyMiddlePackages\" value=\"true\" />\n    <option name=\"showLibraryContents\" value=\"true\" />\n  </component>\n  <component name=\"PropertiesComponent\">\n    <property name=\"ASKED_ADD_EXTERNAL_FILES\" value=\"true\" />\n    <property name=\"RunOnceActivity.ShowReadmeOnStart\" value=\"true\" />\n    <property name=\"SHARE_PROJECT_CONFIGURATION_FILES\" value=\"true\" />\n    <property name=\"com.intellij.testIntegration.createTest.CreateTestDialog.defaultLibrary\" value=\"JUnit5\" />\n    <property name=\"com.intellij.testIntegration.createTest.CreateTestDialog.defaultLibrarySuperClass.JUnit5\" value=\"\" />\n    <property name=\"com.intellij.testIntegration.createTest.CreateTestDialog.includeInheritedMembers\" value=\"true\" />\n    <property name=\"last_directory_selection\" value=\"$PROJECT_DIR$/src/test/java\" />\n    <property name=\"last_opened_file_path\" value=\"$PROJECT_DIR$/src/test\" />\n    <property name=\"project.structure.last.edited\" value=\"Project\" />\n    <property name=\"project.structure.proportion\" value=\"0.15\" />\n    <property name=\"project.structure.side.proportion\" value=\"0.2\" />\n    <property name=\"settings.editor.selected.configurable\" value=\"reference.settingsdialog.project.gradle\" />\n  </component>\n  <component name=\"RecentsManager\">\n    <key name=\"ExtractSuperBase.RECENT_KEYS\">\n      <recent name=\"com.dumisani.spring.part1\" />\n    </key>\n    <key name=\"CreateTestDialog.RecentsKey\">\n      <recent name=\"com.dumisani.spring.part1\" />\n    </key>\n    <key name=\"CreateTestDialog.Recents.Supers\">\n      <recent name=\"\" />\n    </key>\n    <key name=\"CopyClassDialog.RECENTS_KEY\">\n      <recent name=\"com.dumisani.spring.part1\" />\n    </key>\n    <key name=\"CopyFile.RECENT_KEYS\">\n      <recent name=\"$PROJECT_DIR$/src/test\" />\n    </key>\n    <key name=\"CreateClassDialog.RecentsKey\">\n      <recent name=\"com.dumisani.spring.part1\" />\n    </key>\n  </component>\n  <component name=\"RunManager\" selected=\"Application.Main\">\n    <configuration name=\"Main\" type=\"Application\" factoryName=\"Application\" temporary=\"true\" nameIsGenerated=\"true\">\n      <option name=\"MAIN_CLASS_NAME\" value=\"com.dumisani.spring.part1.Main\" />\n      <module name=\"spring_part1.main\" />\n      <extension name=\"coverage\">\n        <pattern>\n          <option name=\"PATTERN\" value=\"com.dumisani.spring.part1.*\" />\n          <option name=\"ENABLED\" value=\"true\" />\n        </pattern>\n      </extension>\n      <method v=\"2\">\n        <option name=\"Make\" enabled=\"true\" />\n      </method>\n    </configuration>\n    <configuration name=\"UserTest\" type=\"GradleRunConfiguration\" factoryName=\"Gradle\" temporary=\"true\">\n      <ExternalSystemSettings>\n        <option name=\"executionName\" />\n        <option name=\"externalProjectPath\" value=\"$PROJECT_DIR$\" />\n        <option name=\"externalSystemIdString\" value=\"GRADLE\" />\n        <option name=\"scriptParameters\" value=\"--tests &quot;com.dumisani.spring.part1.UserTest&quot;\" />\n        <option name=\"taskDescriptions\">\n          <list />\n        </option>\n        <option name=\"taskNames\">\n          <list>\n            <option value=\":cleanTest\" />\n            <option value=\":test\" />\n          </list>\n        </option>\n        <option name=\"vmOptions\" />\n      </ExternalSystemSettings>\n      <GradleScriptDebugEnabled>false</GradleScriptDebugEnabled>\n      <method v=\"2\" />\n    </configuration>\n    <configuration name=\"UserTest.addUser\" type=\"GradleRunConfiguration\" factoryName=\"Gradle\" temporary=\"true\">\n      <ExternalSystemSettings>\n        <option name=\"executionName\" />\n        <option name=\"externalProjectPath\" value=\"$PROJECT_DIR$\" />\n        <option name=\"externalSystemIdString\" value=\"GRADLE\" />\n        <option name=\"scriptParameters\" value=\"--tests &quot;com.dumisani.spring.part1.UserTest.addUser&quot;\" />\n        <option name=\"taskDescriptions\">\n          <list />\n        </option>\n        <option name=\"taskNames\">\n          <list>\n            <option value=\":cleanTest\" />\n            <option value=\":test\" />\n          </list>\n        </option>\n        <option name=\"vmOptions\" />\n      </ExternalSystemSettings>\n      <GradleScriptDebugEnabled>false</GradleScriptDebugEnabled>\n      <method v=\"2\" />\n    </configuration>\n    <configuration name=\"UserTest.getUser\" type=\"GradleRunConfiguration\" factoryName=\"Gradle\" temporary=\"true\">\n      <ExternalSystemSettings>\n        <option name=\"executionName\" />\n        <option name=\"externalProjectPath\" value=\"$PROJECT_DIR$\" />\n        <option name=\"externalSystemIdString\" value=\"GRADLE\" />\n        <option name=\"scriptParameters\" value=\"--tests &quot;com.dumisani.spring.part1.UserTest.getUser&quot;\" />\n        <option name=\"taskDescriptions\">\n          <list />\n        </option>\n        <option name=\"taskNames\">\n          <list>\n            <option value=\":cleanTest\" />\n            <option value=\":test\" />\n          </list>\n        </option>\n        <option name=\"vmOptions\" />\n      </ExternalSystemSettings>\n      <GradleScriptDebugEnabled>false</GradleScriptDebugEnabled>\n      <method v=\"2\" />\n    </configuration>\n    <configuration name=\"UserTest.removeUser\" type=\"GradleRunConfiguration\" factoryName=\"Gradle\" temporary=\"true\">\n      <ExternalSystemSettings>\n        <option name=\"executionName\" />\n        <option name=\"externalProjectPath\" value=\"$PROJECT_DIR$\" />\n        <option name=\"externalSystemIdString\" value=\"GRADLE\" />\n        <option name=\"scriptParameters\" value=\"--tests &quot;com.dumisani.spring.part1.UserTest.removeUser&quot;\" />\n        <option name=\"taskDescriptions\">\n          <list />\n        </option>\n        <option name=\"taskNames\">\n          <list>\n            <option value=\":cleanTest\" />\n            <option value=\":test\" />\n          </list>\n        </option>\n        <option name=\"vmOptions\" />\n      </ExternalSystemSettings>\n      <GradleScriptDebugEnabled>false</GradleScriptDebugEnabled>\n      <method v=\"2\" />\n    </configuration>\n    <configuration name=\"All Tests\" type=\"JUnit\" factoryName=\"JUnit\">\n      <useClassPathOnly />\n      <option name=\"PACKAGE_NAME\" value=\"\" />\n      <option name=\"MAIN_CLASS_NAME\" value=\"\" />\n      <option name=\"METHOD_NAME\" value=\"\" />\n      <option name=\"TEST_OBJECT\" value=\"package\" />\n      <option name=\"PARAMETERS\" value=\"\" />\n      <option name=\"TEST_SEARCH_SCOPE\">\n        <value defaultName=\"wholeProject\" />\n      </option>\n      <method v=\"2\">\n        <option name=\"Make\" enabled=\"true\" />\n      </method>\n    </configuration>\n    <list>\n      <item itemvalue=\"Application.Main\" />\n      <item itemvalue=\"Gradle.UserTest.addUser\" />\n      <item itemvalue=\"Gradle.UserTest.getUser\" />\n      <item itemvalue=\"Gradle.UserTest.removeUser\" />\n      <item itemvalue=\"Gradle.UserTest\" />\n      <item itemvalue=\"JUnit.All Tests\" />\n    </list>\n    <recent_temporary>\n      <list>\n        <item itemvalue=\"Application.Main\" />\n        <item itemvalue=\"Gradle.UserTest\" />\n        <item itemvalue=\"Gradle.UserTest.getUser\" />\n        <item itemvalue=\"Gradle.UserTest.removeUser\" />\n        <item itemvalue=\"Gradle.UserTest.addUser\" />\n      </list>\n    </recent_temporary>\n  </component>\n  <component name=\"SvnConfiguration\">\n    <configuration />\n  </component>\n  <component name=\"TaskManager\">\n    <task active=\"true\" id=\"Default\" summary=\"Default task\">\n      <changelist id=\"067a687c-1bbb-48bb-9e58-28fe77230c07\" name=\"Default Changelist\" comment=\"\" />\n      <created>1586118551452</created>\n      <option name=\"number\" value=\"Default\" />\n      <option name=\"presentableId\" value=\"Default\" />\n      <updated>1586118551452</updated>\n    </task>\n    <servers />\n  </component>\n  <component name=\"VcsManagerConfiguration\">\n    <option name=\"ADD_EXTERNAL_FILES_SILENTLY\" value=\"true\" />\n  </component>\n  <component name=\"WindowStateProjectService\">\n    <state x=\"240\" y=\"76\" key=\"#Project_Structure\" timestamp=\"1586938258033\">\n      <screen x=\"0\" y=\"22\" width=\"1280\" height=\"778\" />\n    </state>\n    <state x=\"240\" y=\"56\" key=\"#Project_Structure/0.0.1280.800@0.0.1280.800\" timestamp=\"1586874396388\" />\n    <state x=\"240\" y=\"76\" key=\"#Project_Structure/0.22.1280.778@0.22.1280.778\" timestamp=\"1586938258033\" />\n    <state x=\"209\" y=\"124\" key=\"#com.intellij.execution.impl.EditConfigurationsDialog\" timestamp=\"1586938313569\">\n      <screen x=\"0\" y=\"22\" width=\"1280\" height=\"778\" />\n    </state>\n    <state x=\"104\" y=\"62\" key=\"#com.intellij.execution.impl.EditConfigurationsDialog/0.0.1280.800@0.0.1280.800\" timestamp=\"1586852728038\" />\n    <state x=\"209\" y=\"124\" key=\"#com.intellij.execution.impl.EditConfigurationsDialog/0.22.1280.778@0.22.1280.778\" timestamp=\"1586938313569\" />\n    <state x=\"453\" y=\"82\" key=\"#com.intellij.ide.util.MemberChooser\" timestamp=\"1586807130648\">\n      <screen x=\"0\" y=\"0\" width=\"1280\" height=\"800\" />\n    </state>\n    <state x=\"453\" y=\"82\" key=\"#com.intellij.ide.util.MemberChooser/0.0.1280.800@0.0.1280.800\" timestamp=\"1586807130648\" />\n    <state x=\"453\" y=\"102\" key=\"#com.intellij.ide.util.MemberChooser/0.22.1280.778@0.22.1280.778\" timestamp=\"1586258139339\" />\n    <state x=\"215\" y=\"93\" key=\"#com.intellij.openapi.keymap.impl.ui.EditKeymapsDialog\" timestamp=\"1586258071464\">\n      <screen x=\"0\" y=\"22\" width=\"1280\" height=\"778\" />\n    </state>\n    <state x=\"215\" y=\"93\" key=\"#com.intellij.openapi.keymap.impl.ui.EditKeymapsDialog/0.22.1280.778@0.22.1280.778\" timestamp=\"1586258071464\" />\n    <state x=\"0\" y=\"323\" key=\"#com.intellij.refactoring.move.MoveHandler.SelectRefactoringDialog\" timestamp=\"1586938798661\">\n      <screen x=\"0\" y=\"0\" width=\"1280\" height=\"800\" />\n    </state>\n    <state x=\"0\" y=\"323\" key=\"#com.intellij.refactoring.move.MoveHandler.SelectRefactoringDialog/0.0.1280.800@0.0.1280.800\" timestamp=\"1586938798661\" />\n    <state x=\"378\" y=\"154\" key=\"#com.intellij.refactoring.typeMigration.ui.FailedConversionsDialog\" timestamp=\"1586812984636\">\n      <screen x=\"0\" y=\"0\" width=\"1280\" height=\"800\" />\n    </state>\n    <state x=\"378\" y=\"154\" key=\"#com.intellij.refactoring.typeMigration.ui.FailedConversionsDialog/0.0.1280.800@0.0.1280.800\" timestamp=\"1586812984636\" />\n    <state x=\"335\" y=\"252\" key=\"ANALYSIS_DLG_com.intellij.analysis.BaseAnalysisAction$1\" timestamp=\"1586880478859\">\n      <screen x=\"0\" y=\"0\" width=\"1280\" height=\"800\" />\n    </state>\n    <state x=\"335\" y=\"252\" key=\"ANALYSIS_DLG_com.intellij.analysis.BaseAnalysisAction$1/0.0.1280.800@0.0.1280.800\" timestamp=\"1586880478859\" />\n    <state width=\"1238\" height=\"411\" key=\"GridCell.Tab.0.bottom\" timestamp=\"1590068728233\">\n      <screen x=\"0\" y=\"0\" width=\"1280\" height=\"800\" />\n    </state>\n    <state width=\"1238\" height=\"411\" key=\"GridCell.Tab.0.bottom/0.0.1280.800@0.0.1280.800\" timestamp=\"1590068728233\" />\n    <state width=\"1238\" height=\"150\" key=\"GridCell.Tab.0.bottom/0.22.1280.778@0.22.1280.778\" timestamp=\"1586938404073\" />\n    <state width=\"1238\" height=\"411\" key=\"GridCell.Tab.0.center\" timestamp=\"1590068728231\">\n      <screen x=\"0\" y=\"0\" width=\"1280\" height=\"800\" />\n    </state>\n    <state width=\"1238\" height=\"411\" key=\"GridCell.Tab.0.center/0.0.1280.800@0.0.1280.800\" timestamp=\"1590068728231\" />\n    <state width=\"1238\" height=\"150\" key=\"GridCell.Tab.0.center/0.22.1280.778@0.22.1280.778\" timestamp=\"1586938404071\" />\n    <state width=\"1238\" height=\"411\" key=\"GridCell.Tab.0.left\" timestamp=\"1590068728231\">\n      <screen x=\"0\" y=\"0\" width=\"1280\" height=\"800\" />\n    </state>\n    <state width=\"1238\" height=\"411\" key=\"GridCell.Tab.0.left/0.0.1280.800@0.0.1280.800\" timestamp=\"1590068728231\" />\n    <state width=\"1238\" height=\"150\" key=\"GridCell.Tab.0.left/0.22.1280.778@0.22.1280.778\" timestamp=\"1586938404071\" />\n    <state width=\"1238\" height=\"411\" key=\"GridCell.Tab.0.right\" timestamp=\"1590068728232\">\n      <screen x=\"0\" y=\"0\" width=\"1280\" height=\"800\" />\n    </state>\n    <state width=\"1238\" height=\"411\" key=\"GridCell.Tab.0.right/0.0.1280.800@0.0.1280.800\" timestamp=\"1590068728232\" />\n    <state width=\"1238\" height=\"150\" key=\"GridCell.Tab.0.right/0.22.1280.778@0.22.1280.778\" timestamp=\"1586938404072\" />\n    <state x=\"128\" y=\"22\" key=\"SettingsEditor\" timestamp=\"1590067999037\">\n      <screen x=\"0\" y=\"0\" width=\"1280\" height=\"800\" />\n    </state>\n    <state x=\"128\" y=\"22\" key=\"SettingsEditor/0.0.1280.800@0.0.1280.800\" timestamp=\"1590067999037\" />\n    <state x=\"128\" y=\"22\" key=\"SettingsEditor/0.22.1280.778@0.22.1280.778\" timestamp=\"1586936348318\" />\n    <state x=\"435\" y=\"185\" key=\"chooseDestDirectoryDialog\" timestamp=\"1586938680792\">\n      <screen x=\"0\" y=\"0\" width=\"1280\" height=\"800\" />\n    </state>\n    <state x=\"435\" y=\"185\" key=\"chooseDestDirectoryDialog/0.0.1280.800@0.0.1280.800\" timestamp=\"1586938680792\" />\n    <state x=\"435\" y=\"202\" key=\"chooseDestDirectoryDialog/0.22.1280.778@0.22.1280.778\" timestamp=\"1586931511092\" />\n    <state x=\"319\" y=\"227\" key=\"com.intellij.ide.util.TipDialog\" timestamp=\"1586783680315\">\n      <screen x=\"0\" y=\"0\" width=\"1280\" height=\"800\" />\n    </state>\n    <state x=\"319\" y=\"227\" key=\"com.intellij.ide.util.TipDialog/0.0.1280.800@0.0.1280.800\" timestamp=\"1586783680315\" />\n    <state x=\"319\" y=\"243\" key=\"com.intellij.ide.util.TipDialog/0.22.1280.778@0.22.1280.778\" timestamp=\"1586274247232\" />\n    <state x=\"407\" y=\"167\" key=\"com.intellij.testIntegration.createTest.CreateTestDialog\" timestamp=\"1586936755608\">\n      <screen x=\"0\" y=\"22\" width=\"1280\" height=\"778\" />\n    </state>\n    <state x=\"407\" y=\"149\" key=\"com.intellij.testIntegration.createTest.CreateTestDialog/0.0.1280.800@0.0.1280.800\" timestamp=\"1586880502898\" />\n    <state x=\"407\" y=\"167\" key=\"com.intellij.testIntegration.createTest.CreateTestDialog/0.22.1280.778@0.22.1280.778\" timestamp=\"1586936755608\" />\n    <state x=\"34\" y=\"22\" key=\"new project wizard\" timestamp=\"1586939975506\">\n      <screen x=\"0\" y=\"0\" width=\"1280\" height=\"800\" />\n    </state>\n    <state x=\"34\" y=\"22\" key=\"new project wizard/0.0.1280.800@0.0.1280.800\" timestamp=\"1586939975506\" />\n  </component>\n</project>
+Subsystem: com.intellij.openapi.diff.impl.patch.CharsetEP
+<+>UTF-8
+===================================================================
+--- .idea/workspace.xml	(revision 90d01f6868d8c17eb31491266c418e1ef7083466)
++++ .idea/workspace.xml	(date 1590344072000)
+@@ -2,37 +2,27 @@
+ <project version="4">
+   <component name="ChangeListManager">
+     <list default="true" id="067a687c-1bbb-48bb-9e58-28fe77230c07" name="Default Changelist" comment="">
+-      <change afterPath="$PROJECT_DIR$/.idea/.name" afterDir="false" />
+       <change beforePath="$PROJECT_DIR$/.gradle/5.2.1/executionHistory/executionHistory.bin" beforeDir="false" afterPath="$PROJECT_DIR$/.gradle/5.2.1/executionHistory/executionHistory.bin" afterDir="false" />
+       <change beforePath="$PROJECT_DIR$/.gradle/5.2.1/executionHistory/executionHistory.lock" beforeDir="false" afterPath="$PROJECT_DIR$/.gradle/5.2.1/executionHistory/executionHistory.lock" afterDir="false" />
+       <change beforePath="$PROJECT_DIR$/.gradle/5.2.1/fileHashes/fileHashes.bin" beforeDir="false" afterPath="$PROJECT_DIR$/.gradle/5.2.1/fileHashes/fileHashes.bin" afterDir="false" />
+       <change beforePath="$PROJECT_DIR$/.gradle/5.2.1/fileHashes/fileHashes.lock" beforeDir="false" afterPath="$PROJECT_DIR$/.gradle/5.2.1/fileHashes/fileHashes.lock" afterDir="false" />
+       <change beforePath="$PROJECT_DIR$/.gradle/5.2.1/fileHashes/resourceHashesCache.bin" beforeDir="false" afterPath="$PROJECT_DIR$/.gradle/5.2.1/fileHashes/resourceHashesCache.bin" afterDir="false" />
++      <change beforePath="$PROJECT_DIR$/.gradle/5.2.1/javaCompile/classAnalysis.bin" beforeDir="false" afterPath="$PROJECT_DIR$/.gradle/5.2.1/javaCompile/classAnalysis.bin" afterDir="false" />
++      <change beforePath="$PROJECT_DIR$/.gradle/5.2.1/javaCompile/jarAnalysis.bin" beforeDir="false" afterPath="$PROJECT_DIR$/.gradle/5.2.1/javaCompile/jarAnalysis.bin" afterDir="false" />
+       <change beforePath="$PROJECT_DIR$/.gradle/5.2.1/javaCompile/javaCompile.lock" beforeDir="false" afterPath="$PROJECT_DIR$/.gradle/5.2.1/javaCompile/javaCompile.lock" afterDir="false" />
+       <change beforePath="$PROJECT_DIR$/.gradle/5.2.1/javaCompile/taskHistory.bin" beforeDir="false" afterPath="$PROJECT_DIR$/.gradle/5.2.1/javaCompile/taskHistory.bin" afterDir="false" />
+       <change beforePath="$PROJECT_DIR$/.gradle/buildOutputCleanup/buildOutputCleanup.lock" beforeDir="false" afterPath="$PROJECT_DIR$/.gradle/buildOutputCleanup/buildOutputCleanup.lock" afterDir="false" />
+       <change beforePath="$PROJECT_DIR$/.gradle/buildOutputCleanup/outputFiles.bin" beforeDir="false" afterPath="$PROJECT_DIR$/.gradle/buildOutputCleanup/outputFiles.bin" afterDir="false" />
+-      <change beforePath="$PROJECT_DIR$/.idea/compiler.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/compiler.xml" afterDir="false" />
+       <change beforePath="$PROJECT_DIR$/.idea/gradle.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/gradle.xml" afterDir="false" />
+       <change beforePath="$PROJECT_DIR$/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
+       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+-      <change beforePath="$PROJECT_DIR$/build.gradle" beforeDir="false" afterPath="$PROJECT_DIR$/build.gradle" afterDir="false" />
+-      <change beforePath="$PROJECT_DIR$/build/classes/java/main/com/dumisani/spring/part1/FakeRepo.class" beforeDir="false" afterPath="$PROJECT_DIR$/build/classes/java/main/com/dumisani/spring/part1/FakeRepo.class" afterDir="false" />
+-      <change beforePath="$PROJECT_DIR$/build/classes/java/main/com/dumisani/spring/part1/Main.class" beforeDir="false" afterPath="$PROJECT_DIR$/build/classes/java/main/com/dumisani/spring/part1/Main.class" afterDir="false" />
+-      <change beforePath="$PROJECT_DIR$/build/classes/java/main/com/dumisani/spring/part1/User.class" beforeDir="false" afterPath="$PROJECT_DIR$/build/classes/java/main/com/dumisani/spring/part1/User.class" afterDir="false" />
++      <change beforePath="$PROJECT_DIR$/build/classes/java/main/com/dumisani/spring/part1/CountryRepository.class" beforeDir="false" />
++      <change beforePath="$PROJECT_DIR$/build/classes/java/main/com/dumisani/spring/part1/UserServices.class" beforeDir="false" afterPath="$PROJECT_DIR$/build/classes/java/main/com/dumisani/spring/part1/UserServices.class" afterDir="false" />
+       <change beforePath="$PROJECT_DIR$/build/classes/java/main/com/dumisani/spring/part1/UserServicesImpl.class" beforeDir="false" afterPath="$PROJECT_DIR$/build/classes/java/main/com/dumisani/spring/part1/UserServicesImpl.class" afterDir="false" />
+-      <change beforePath="$PROJECT_DIR$/build/classes/java/test/com/dumisani/spring/part1/UserTest.class" beforeDir="false" />
+-      <change beforePath="$PROJECT_DIR$/build/reports/tests/test/classes/com.dumisani.spring.part1.UserTest.html" beforeDir="false" />
+-      <change beforePath="$PROJECT_DIR$/build/reports/tests/test/css/base-style.css" beforeDir="false" />
+-      <change beforePath="$PROJECT_DIR$/build/reports/tests/test/css/style.css" beforeDir="false" />
+-      <change beforePath="$PROJECT_DIR$/build/reports/tests/test/index.html" beforeDir="false" />
+-      <change beforePath="$PROJECT_DIR$/build/reports/tests/test/js/report.js" beforeDir="false" />
+-      <change beforePath="$PROJECT_DIR$/build/reports/tests/test/packages/com.dumisani.spring.part1.html" beforeDir="false" />
+-      <change beforePath="$PROJECT_DIR$/build/test-results/test/TEST-com.dumisani.spring.part1.UserTest.xml" beforeDir="false" />
+-      <change beforePath="$PROJECT_DIR$/build/test-results/test/binary/output.bin" beforeDir="false" />
+-      <change beforePath="$PROJECT_DIR$/build/test-results/test/binary/output.bin.idx" beforeDir="false" />
+-      <change beforePath="$PROJECT_DIR$/build/test-results/test/binary/results.bin" beforeDir="false" />
+-      <change beforePath="$PROJECT_DIR$/src/test/java/com/dumisani/spring/part1/UserTest.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/test/java/com/dumisani/spring/part1/UserTest.java" afterDir="false" />
++      <change beforePath="$PROJECT_DIR$/build/classes/java/main/controller/UserController.class" beforeDir="false" afterPath="$PROJECT_DIR$/build/classes/java/main/controller/UserController.class" afterDir="false" />
++      <change beforePath="$PROJECT_DIR$/src/main/java/com/dumisani/spring/part1/UserServices.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/dumisani/spring/part1/UserServices.java" afterDir="false" />
++      <change beforePath="$PROJECT_DIR$/src/main/java/com/dumisani/spring/part1/UserServicesImpl.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/dumisani/spring/part1/UserServicesImpl.java" afterDir="false" />
++      <change beforePath="$PROJECT_DIR$/src/main/java/controller/UserController.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/controller/UserController.java" afterDir="false" />
+     </list>
+     <option name="SHOW_DIALOG" value="false" />
+     <option name="HIGHLIGHT_CONFLICTS" value="true" />
+@@ -47,6 +37,9 @@
+   <component name="ExternalProjectsManager">
+     <system id="GRADLE">
+       <state>
++        <task path="$PROJECT_DIR$">
++          <activation />
++        </task>
+         <projects_view />
+       </state>
+     </system>
+@@ -74,6 +67,7 @@
+   </component>
+   <component name="PropertiesComponent">
+     <property name="ASKED_ADD_EXTERNAL_FILES" value="true" />
++    <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
+     <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+     <property name="SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
+     <property name="com.intellij.testIntegration.createTest.CreateTestDialog.defaultLibrary" value="JUnit5" />
+@@ -106,7 +100,7 @@
+       <recent name="com.dumisani.spring.part1" />
+     </key>
+   </component>
+-  <component name="RunManager" selected="Application.Main">
++  <component name="RunManager" selected="Gradle.UserTest.getCommits">
+     <configuration name="Main" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+       <option name="MAIN_CLASS_NAME" value="com.dumisani.spring.part1.Main" />
+       <module name="spring_part1.main" />
+@@ -140,18 +134,17 @@
+       <GradleScriptDebugEnabled>false</GradleScriptDebugEnabled>
+       <method v="2" />
+     </configuration>
+-    <configuration name="UserTest.addUser" type="GradleRunConfiguration" factoryName="Gradle" temporary="true">
++    <configuration name="UserTest.getCommits" type="GradleRunConfiguration" factoryName="Gradle" temporary="true">
+       <ExternalSystemSettings>
+         <option name="executionName" />
+         <option name="externalProjectPath" value="$PROJECT_DIR$" />
+         <option name="externalSystemIdString" value="GRADLE" />
+-        <option name="scriptParameters" value="--tests &quot;com.dumisani.spring.part1.UserTest.addUser&quot;" />
++        <option name="scriptParameters" value="--tests &quot;com.dumisani.spring.part1.UserTest.getCommits&quot;" />
+         <option name="taskDescriptions">
+           <list />
+         </option>
+         <option name="taskNames">
+           <list>
+-            <option value=":cleanTest" />
+             <option value=":test" />
+           </list>
+         </option>
+@@ -160,18 +153,17 @@
+       <GradleScriptDebugEnabled>false</GradleScriptDebugEnabled>
+       <method v="2" />
+     </configuration>
+-    <configuration name="UserTest.getUser" type="GradleRunConfiguration" factoryName="Gradle" temporary="true">
++    <configuration name="UserTest.getGit" type="GradleRunConfiguration" factoryName="Gradle" temporary="true">
+       <ExternalSystemSettings>
+         <option name="executionName" />
+         <option name="externalProjectPath" value="$PROJECT_DIR$" />
+         <option name="externalSystemIdString" value="GRADLE" />
+-        <option name="scriptParameters" value="--tests &quot;com.dumisani.spring.part1.UserTest.getUser&quot;" />
++        <option name="scriptParameters" value="--tests &quot;com.dumisani.spring.part1.UserTest.getGit&quot;" />
+         <option name="taskDescriptions">
+           <list />
+         </option>
+         <option name="taskNames">
+           <list>
+-            <option value=":cleanTest" />
+             <option value=":test" />
+           </list>
+         </option>
+@@ -180,12 +172,12 @@
+       <GradleScriptDebugEnabled>false</GradleScriptDebugEnabled>
+       <method v="2" />
+     </configuration>
+-    <configuration name="UserTest.removeUser" type="GradleRunConfiguration" factoryName="Gradle" temporary="true">
++    <configuration name="UserTest.getUser" type="GradleRunConfiguration" factoryName="Gradle" temporary="true">
+       <ExternalSystemSettings>
+         <option name="executionName" />
+         <option name="externalProjectPath" value="$PROJECT_DIR$" />
+         <option name="externalSystemIdString" value="GRADLE" />
+-        <option name="scriptParameters" value="--tests &quot;com.dumisani.spring.part1.UserTest.removeUser&quot;" />
++        <option name="scriptParameters" value="--tests &quot;com.dumisani.spring.part1.UserTest.getUser&quot;" />
+         <option name="taskDescriptions">
+           <list />
+         </option>
+@@ -216,19 +208,19 @@
+     </configuration>
+     <list>
+       <item itemvalue="Application.Main" />
+-      <item itemvalue="Gradle.UserTest.addUser" />
+       <item itemvalue="Gradle.UserTest.getUser" />
+-      <item itemvalue="Gradle.UserTest.removeUser" />
+       <item itemvalue="Gradle.UserTest" />
++      <item itemvalue="Gradle.UserTest.getGit" />
++      <item itemvalue="Gradle.UserTest.getCommits" />
+       <item itemvalue="JUnit.All Tests" />
+     </list>
+     <recent_temporary>
+       <list>
++        <item itemvalue="Gradle.UserTest.getCommits" />
++        <item itemvalue="Gradle.UserTest.getGit" />
+         <item itemvalue="Application.Main" />
+         <item itemvalue="Gradle.UserTest" />
+         <item itemvalue="Gradle.UserTest.getUser" />
+-        <item itemvalue="Gradle.UserTest.removeUser" />
+-        <item itemvalue="Gradle.UserTest.addUser" />
+       </list>
+     </recent_temporary>
+   </component>
+@@ -280,31 +272,35 @@
+       <screen x="0" y="0" width="1280" height="800" />
+     </state>
+     <state x="335" y="252" key="ANALYSIS_DLG_com.intellij.analysis.BaseAnalysisAction$1/0.0.1280.800@0.0.1280.800" timestamp="1586880478859" />
+-    <state width="1238" height="411" key="GridCell.Tab.0.bottom" timestamp="1590068728233">
+-      <screen x="0" y="0" width="1280" height="800" />
++    <state width="1238" height="172" key="GridCell.Tab.0.bottom" timestamp="1590342848202">
++      <screen x="0" y="22" width="1280" height="778" />
+     </state>
+     <state width="1238" height="411" key="GridCell.Tab.0.bottom/0.0.1280.800@0.0.1280.800" timestamp="1590068728233" />
+-    <state width="1238" height="150" key="GridCell.Tab.0.bottom/0.22.1280.778@0.22.1280.778" timestamp="1586938404073" />
+-    <state width="1238" height="411" key="GridCell.Tab.0.center" timestamp="1590068728231">
+-      <screen x="0" y="0" width="1280" height="800" />
++    <state width="1238" height="172" key="GridCell.Tab.0.bottom/0.22.1280.778@0.22.1280.778" timestamp="1590342848202" />
++    <state width="1238" height="172" key="GridCell.Tab.0.center" timestamp="1590342848200">
++      <screen x="0" y="22" width="1280" height="778" />
+     </state>
+     <state width="1238" height="411" key="GridCell.Tab.0.center/0.0.1280.800@0.0.1280.800" timestamp="1590068728231" />
+-    <state width="1238" height="150" key="GridCell.Tab.0.center/0.22.1280.778@0.22.1280.778" timestamp="1586938404071" />
+-    <state width="1238" height="411" key="GridCell.Tab.0.left" timestamp="1590068728231">
+-      <screen x="0" y="0" width="1280" height="800" />
++    <state width="1238" height="172" key="GridCell.Tab.0.center/0.22.1280.778@0.22.1280.778" timestamp="1590342848200" />
++    <state width="1238" height="172" key="GridCell.Tab.0.left" timestamp="1590342848200">
++      <screen x="0" y="22" width="1280" height="778" />
+     </state>
+     <state width="1238" height="411" key="GridCell.Tab.0.left/0.0.1280.800@0.0.1280.800" timestamp="1590068728231" />
+-    <state width="1238" height="150" key="GridCell.Tab.0.left/0.22.1280.778@0.22.1280.778" timestamp="1586938404071" />
+-    <state width="1238" height="411" key="GridCell.Tab.0.right" timestamp="1590068728232">
+-      <screen x="0" y="0" width="1280" height="800" />
++    <state width="1238" height="172" key="GridCell.Tab.0.left/0.22.1280.778@0.22.1280.778" timestamp="1590342848200" />
++    <state width="1238" height="172" key="GridCell.Tab.0.right" timestamp="1590342848201">
++      <screen x="0" y="22" width="1280" height="778" />
+     </state>
+     <state width="1238" height="411" key="GridCell.Tab.0.right/0.0.1280.800@0.0.1280.800" timestamp="1590068728232" />
+-    <state width="1238" height="150" key="GridCell.Tab.0.right/0.22.1280.778@0.22.1280.778" timestamp="1586938404072" />
+-    <state x="128" y="22" key="SettingsEditor" timestamp="1590067999037">
+-      <screen x="0" y="0" width="1280" height="800" />
++    <state width="1238" height="172" key="GridCell.Tab.0.right/0.22.1280.778@0.22.1280.778" timestamp="1590342848201" />
++    <state x="128" y="22" key="SettingsEditor" timestamp="1590342620162">
++      <screen x="0" y="22" width="1280" height="778" />
+     </state>
+     <state x="128" y="22" key="SettingsEditor/0.0.1280.800@0.0.1280.800" timestamp="1590067999037" />
+-    <state x="128" y="22" key="SettingsEditor/0.22.1280.778@0.22.1280.778" timestamp="1586936348318" />
++    <state x="128" y="22" key="SettingsEditor/0.22.1280.778@0.22.1280.778" timestamp="1590342620162" />
++    <state x="240" y="151" key="Vcs.Push.Dialog.v2" timestamp="1590343984814">
++      <screen x="0" y="22" width="1280" height="778" />
++    </state>
++    <state x="240" y="151" key="Vcs.Push.Dialog.v2/0.22.1280.778@0.22.1280.778" timestamp="1590343984814" />
+     <state x="435" y="185" key="chooseDestDirectoryDialog" timestamp="1586938680792">
+       <screen x="0" y="0" width="1280" height="800" />
+     </state>
+Index: src/main/java/com/dumisani/spring/part1/UserServices.java
+IDEA additional info:
+Subsystem: com.intellij.openapi.diff.impl.patch.BaseRevisionTextPatchEP
+<+>package com.dumisani.spring.part1;\n\npublic interface UserServices {\n    String addUser(long Id,String name, String surname);\n    String getUser(long Id);\n    String removeUser(long Id);\n    String getGit();\n\n\n}\n
+Subsystem: com.intellij.openapi.diff.impl.patch.CharsetEP
+<+>UTF-8
+===================================================================
+--- src/main/java/com/dumisani/spring/part1/UserServices.java	(revision 90d01f6868d8c17eb31491266c418e1ef7083466)
++++ src/main/java/com/dumisani/spring/part1/UserServices.java	(date 1590344026000)
+@@ -1,10 +1,13 @@
+ package com.dumisani.spring.part1;
+ 
++import org.springframework.http.ResponseEntity;
++
+ public interface UserServices {
+     String addUser(long Id,String name, String surname);
+     String getUser(long Id);
+     String removeUser(long Id);
+-    String getGit();
++    ResponseEntity<String> getGit();
++    ResponseEntity<String> getCommits();
+ 
+ 
+ }
+Index: src/main/java/com/dumisani/spring/part1/UserServicesImpl.java
+IDEA additional info:
+Subsystem: com.intellij.openapi.diff.impl.patch.BaseRevisionTextPatchEP
+<+>package com.dumisani.spring.part1;\n\nimport org.springframework.beans.factory.annotation.Autowired;\nimport org.springframework.http.ResponseEntity;\nimport org.springframework.stereotype.Service;\nimport org.springframework.web.client.RestTemplate;\n\n@Service\npublic class UserServicesImpl implements UserServices {\n \n    @Autowired\n    static FakeRepo fakeRepo;\n    @Override\n    public String addUser(long Id , String name, String surname) {\n        fakeRepo = new FakeRepo();\n        return fakeRepo.insertUser(1,name,surname);\n    }\n    @Override\n    public String getUser(long Id) {\n        fakeRepo = new FakeRepo();\n        return fakeRepo.findUserById(1);\n    }\n\n    @Override\n    public String removeUser(long Id) {\n        fakeRepo = new FakeRepo();\n        return fakeRepo.deleteUser(1);\n    }\n    \n    @GetMapping(\"/listRepos\")\n    public ResponseEntity<String> getGit(){\n    RestTemplate template = new RestTemplate();\n    String userResourceUrl = \"https://api.github.com/users/dumi-web/repos\";\n\n    ResponseEntity<String> response = template.getForEntity(userResourceUrl, String.class);\n    System.out.println(\"response \" + response);\n    return response;\n}\n    @GetMapping(\"/list/commits\")\n    public ResponseEntity<String> getCommits() {\n        RestTemplate template = new RestTemplate();\n        String userResourceUrl = \"https://api.github.com/repos/dumi-web/addLogs/commits\";\n\n        ResponseEntity<String> output = template.getForEntity(userResourceUrl, String.class);\n        System.out.println(\"response \" + output);\n        return output;\n    }\n}\n
+Subsystem: com.intellij.openapi.diff.impl.patch.CharsetEP
+<+>UTF-8
+===================================================================
+--- src/main/java/com/dumisani/spring/part1/UserServicesImpl.java	(revision 90d01f6868d8c17eb31491266c418e1ef7083466)
++++ src/main/java/com/dumisani/spring/part1/UserServicesImpl.java	(date 1590344026000)
+@@ -3,6 +3,7 @@
+ import org.springframework.beans.factory.annotation.Autowired;
+ import org.springframework.http.ResponseEntity;
+ import org.springframework.stereotype.Service;
++import org.springframework.web.bind.annotation.GetMapping;
+ import org.springframework.web.client.RestTemplate;
+ 
+ @Service
+Index: src/main/java/controller/UserController.java
+IDEA additional info:
+Subsystem: com.intellij.openapi.diff.impl.patch.BaseRevisionTextPatchEP
+<+>package controller;\n\nimport com.dumisani.spring.part1.User;\nimport com.dumisani.spring.part1.UserServices;\nimport org.springframework.beans.factory.annotation.Autowired;\nimport org.springframework.web.bind.annotation.*;\n\n@RequestMapping(\"/api/user/\")\n@RestController\npublic class UserController {\n    @GetMapping(\"/\")\n    public String Home(){\n        return \"Welcome Home\";\n    }\n    @Autowired\n    UserServices userServices;\n    \n        @GetMapping(\"/list/commits\")\n    public ResponseEntity<String> getCommits() {\n        RestTemplate template = new RestTemplate();\n        String userResourceUrl = \"https://api.github.com/repos/dumi-web/addLogs/commits\";\n\n        ResponseEntity<String> response = template.getForEntity(userResourceUrl, String.class);\n        System.out.println(\"response \" + response);\n        return response;\n    }\n\n    @GetMapping(\"/list/repos\")\n        public ResponseEntity<String> getGit(){\n            RestTemplate template = new RestTemplate();\n            String userResourceUrl = \"https://api.github.com/users/dumi-web/repos\";\n\n            ResponseEntity<String> response = template.getForEntity(userResourceUrl, String.class);\n            System.out.println(\"response \" + response);\n            return response;\n        }\n    @PutMapping\n    public void addUser(@RequestBody User user) {\n        userServices.addUser(user.getId(),user.getName(),user.getSurname());\n        //return new ResponseEntity<>(\"Success!\", HttpStatus.NO_CONTENT);\n    }\n\n    @GetMapping(\"/{Id}\")\n    public String getUser(@PathVariable(value = \"Id\") long Id){\n        return userServices.getUser(Id);\n    }\n\n    @DeleteMapping\n    public void removeUser(@PathVariable(value = \"Id\") long Id){\n        userServices.removeUser(Id);\n        //return new ResponseEntity<>(\"Success!\", HttpStatus.OK);\n\n    }\n\n\n\n\n\n}\n
+Subsystem: com.intellij.openapi.diff.impl.patch.CharsetEP
+<+>UTF-8
+===================================================================
+--- src/main/java/controller/UserController.java	(revision 90d01f6868d8c17eb31491266c418e1ef7083466)
++++ src/main/java/controller/UserController.java	(date 1590344026000)
+@@ -3,7 +3,9 @@
+ import com.dumisani.spring.part1.User;
+ import com.dumisani.spring.part1.UserServices;
+ import org.springframework.beans.factory.annotation.Autowired;
++import org.springframework.http.ResponseEntity;
+ import org.springframework.web.bind.annotation.*;
++import org.springframework.web.client.RestTemplate;
+ 
+ @RequestMapping("/api/user/")
+ @RestController
+Index: .idea/misc.xml
+IDEA additional info:
+Subsystem: com.intellij.openapi.diff.impl.patch.BaseRevisionTextPatchEP
+<+><?xml version=\"1.0\" encoding=\"UTF-8\"?>\n<project version=\"4\">\n  <component name=\"ExternalStorageConfigurationManager\" enabled=\"true\" />\n  <component name=\"ProjectRootManager\" version=\"2\" languageLevel=\"JDK_1_8\" default=\"false\" project-jdk-name=\"1.8\" project-jdk-type=\"JavaSDK\">\n    <output url=\"file://$PROJECT_DIR$/out\" />\n  </component>\n</project>
+Subsystem: com.intellij.openapi.diff.impl.patch.CharsetEP
+<+>UTF-8
+===================================================================
+--- .idea/misc.xml	(revision 90d01f6868d8c17eb31491266c418e1ef7083466)
++++ .idea/misc.xml	(date 1590344026000)
+@@ -1,7 +1,7 @@
+ <?xml version="1.0" encoding="UTF-8"?>
+ <project version="4">
+   <component name="ExternalStorageConfigurationManager" enabled="true" />
+-  <component name="ProjectRootManager" version="2" languageLevel="JDK_1_8" default="false" project-jdk-name="1.8" project-jdk-type="JavaSDK">
++  <component name="ProjectRootManager" version="2" languageLevel="JDK_1_8" default="true" project-jdk-name="1.8 (2)" project-jdk-type="JavaSDK">
+     <output url="file://$PROJECT_DIR$/out" />
+   </component>
+ </project>
+\ No newline at end of file
+Index: .idea/gradle.xml
+IDEA additional info:
+Subsystem: com.intellij.openapi.diff.impl.patch.BaseRevisionTextPatchEP
+<+><?xml version=\"1.0\" encoding=\"UTF-8\"?>\n<project version=\"4\">\n  <component name=\"GradleMigrationSettings\" migrationVersion=\"1\" />\n  <component name=\"GradleSettings\">\n    <option name=\"linkedExternalProjectsSettings\">\n      <GradleProjectSettings>\n        <option name=\"delegatedBuild\" value=\"true\" />\n        <option name=\"testRunner\" value=\"GRADLE\" />\n        <option name=\"distributionType\" value=\"DEFAULT_WRAPPED\" />\n        <option name=\"externalProjectPath\" value=\"$PROJECT_DIR$\" />\n        <option name=\"gradleHome\" value=\"/usr/local/Cellar/gradle/6.4.1/libexec\" />\n        <option name=\"gradleJvm\" value=\"1.8\" />\n        <option name=\"modules\">\n          <set>\n            <option value=\"$PROJECT_DIR$\" />\n            <option value=\"$PROJECT_DIR$/spring boot\" />\n          </set>\n        </option>\n        <option name=\"useQualifiedModuleNames\" value=\"true\" />\n      </GradleProjectSettings>\n    </option>\n  </component>\n</project>
+Subsystem: com.intellij.openapi.diff.impl.patch.CharsetEP
+<+>UTF-8
+===================================================================
+--- .idea/gradle.xml	(revision 90d01f6868d8c17eb31491266c418e1ef7083466)
++++ .idea/gradle.xml	(date 1590344026000)
+@@ -9,7 +9,7 @@
+         <option name="distributionType" value="DEFAULT_WRAPPED" />
+         <option name="externalProjectPath" value="$PROJECT_DIR$" />
+         <option name="gradleHome" value="/usr/local/Cellar/gradle/6.4.1/libexec" />
+-        <option name="gradleJvm" value="1.8" />
++        <option name="gradleJvm" value="1.8 (2)" />
+         <option name="modules">
+           <set>
+             <option value="$PROJECT_DIR$" />

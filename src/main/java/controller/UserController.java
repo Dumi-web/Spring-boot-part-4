@@ -3,7 +3,9 @@ package controller;
 import com.dumisani.spring.part1.User;
 import com.dumisani.spring.part1.UserServices;
 import org.springframework.beans.factory.annotation.Autowired;
+import org.springframework.http.ResponseEntity;
 import org.springframework.web.bind.annotation.*;
+import org.springframework.web.client.RestTemplate;
 
 @RequestMapping("/api/user/")
 @RestController

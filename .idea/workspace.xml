@@ -2,36 +2,27 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="067a687c-1bbb-48bb-9e58-28fe77230c07" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/.idea/.name" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.gradle/5.2.1/executionHistory/executionHistory.bin" beforeDir="false" afterPath="$PROJECT_DIR$/.gradle/5.2.1/executionHistory/executionHistory.bin" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.gradle/5.2.1/executionHistory/executionHistory.lock" beforeDir="false" afterPath="$PROJECT_DIR$/.gradle/5.2.1/executionHistory/executionHistory.lock" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.gradle/5.2.1/fileHashes/fileHashes.bin" beforeDir="false" afterPath="$PROJECT_DIR$/.gradle/5.2.1/fileHashes/fileHashes.bin" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.gradle/5.2.1/fileHashes/fileHashes.lock" beforeDir="false" afterPath="$PROJECT_DIR$/.gradle/5.2.1/fileHashes/fileHashes.lock" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.gradle/5.2.1/fileHashes/resourceHashesCache.bin" beforeDir="false" afterPath="$PROJECT_DIR$/.gradle/5.2.1/fileHashes/resourceHashesCache.bin" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.gradle/5.2.1/javaCompile/classAnalysis.bin" beforeDir="false" afterPath="$PROJECT_DIR$/.gradle/5.2.1/javaCompile/classAnalysis.bin" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.gradle/5.2.1/javaCompile/jarAnalysis.bin" beforeDir="false" afterPath="$PROJECT_DIR$/.gradle/5.2.1/javaCompile/jarAnalysis.bin" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.gradle/5.2.1/javaCompile/javaCompile.lock" beforeDir="false" afterPath="$PROJECT_DIR$/.gradle/5.2.1/javaCompile/javaCompile.lock" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.gradle/5.2.1/javaCompile/taskHistory.bin" beforeDir="false" afterPath="$PROJECT_DIR$/.gradle/5.2.1/javaCompile/taskHistory.bin" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.gradle/buildOutputCleanup/buildOutputCleanup.lock" beforeDir="false" afterPath="$PROJECT_DIR$/.gradle/buildOutputCleanup/buildOutputCleanup.lock" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.gradle/buildOutputCleanup/outputFiles.bin" beforeDir="false" afterPath="$PROJECT_DIR$/.gradle/buildOutputCleanup/outputFiles.bin" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/compiler.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/compiler.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/gradle.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/gradle.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/build.gradle" beforeDir="false" afterPath="$PROJECT_DIR$/build.gradle" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/build/classes/java/main/com/dumisani/spring/part1/FakeRepo.class" beforeDir="false" afterPath="$PROJECT_DIR$/build/classes/java/main/com/dumisani/spring/part1/FakeRepo.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/build/classes/java/main/com/dumisani/spring/part1/Main.class" beforeDir="false" afterPath="$PROJECT_DIR$/build/classes/java/main/com/dumisani/spring/part1/Main.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/build/classes/java/main/com/dumisani/spring/part1/User.class" beforeDir="false" afterPath="$PROJECT_DIR$/build/classes/java/main/com/dumisani/spring/part1/User.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/build/classes/java/main/com/dumisani/spring/part1/CountryRepository.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/build/classes/java/main/com/dumisani/spring/part1/UserServices.class" beforeDir="false" afterPath="$PROJECT_DIR$/build/classes/java/main/com/dumisani/spring/part1/UserServices.class" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/build/classes/java/main/com/dumisani/spring/part1/UserServicesImpl.class" beforeDir="false" afterPath="$PROJECT_DIR$/build/classes/java/main/com/dumisani/spring/part1/UserServicesImpl.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/build/classes/java/test/com/dumisani/spring/part1/UserTest.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/build/reports/tests/test/classes/com.dumisani.spring.part1.UserTest.html" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/build/reports/tests/test/css/base-style.css" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/build/reports/tests/test/css/style.css" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/build/reports/tests/test/index.html" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/build/reports/tests/test/js/report.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/build/reports/tests/test/packages/com.dumisani.spring.part1.html" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/build/test-results/test/TEST-com.dumisani.spring.part1.UserTest.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/build/test-results/test/binary/output.bin" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/build/test-results/test/binary/output.bin.idx" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/build/test-results/test/binary/results.bin" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/build/classes/java/main/controller/UserController.class" beforeDir="false" afterPath="$PROJECT_DIR$/build/classes/java/main/controller/UserController.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/com/dumisani/spring/part1/UserServices.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/dumisani/spring/part1/UserServices.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/com/dumisani/spring/part1/UserServicesImpl.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/dumisani/spring/part1/UserServicesImpl.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/controller/UserController.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/controller/UserController.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/src/test/java/com/dumisani/spring/part1/UserTest.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/test/java/com/dumisani/spring/part1/UserTest.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -47,6 +38,9 @@
   <component name="ExternalProjectsManager">
     <system id="GRADLE">
       <state>
+        <task path="$PROJECT_DIR$">
+          <activation />
+        </task>
         <projects_view />
       </state>
     </system>
@@ -74,6 +68,7 @@
   </component>
   <component name="PropertiesComponent">
     <property name="ASKED_ADD_EXTERNAL_FILES" value="true" />
+    <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
     <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
     <property name="SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
     <property name="com.intellij.testIntegration.createTest.CreateTestDialog.defaultLibrary" value="JUnit5" />
@@ -106,7 +101,7 @@
       <recent name="com.dumisani.spring.part1" />
     </key>
   </component>
-  <component name="RunManager" selected="Application.Main">
+  <component name="RunManager" selected="Gradle.UserTest.getCommits">
     <configuration name="Main" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="com.dumisani.spring.part1.Main" />
       <module name="spring_part1.main" />
@@ -140,18 +135,36 @@
       <GradleScriptDebugEnabled>false</GradleScriptDebugEnabled>
       <method v="2" />
     </configuration>
-    <configuration name="UserTest.addUser" type="GradleRunConfiguration" factoryName="Gradle" temporary="true">
+    <configuration name="UserTest.getCommits" type="GradleRunConfiguration" factoryName="Gradle" temporary="true">
       <ExternalSystemSettings>
         <option name="executionName" />
         <option name="externalProjectPath" value="$PROJECT_DIR$" />
         <option name="externalSystemIdString" value="GRADLE" />
-        <option name="scriptParameters" value="--tests &quot;com.dumisani.spring.part1.UserTest.addUser&quot;" />
+        <option name="scriptParameters" value="--tests &quot;com.dumisani.spring.part1.UserTest.getCommits&quot;" />
         <option name="taskDescriptions">
           <list />
         </option>
         <option name="taskNames">
           <list>
-            <option value=":cleanTest" />
+            <option value=":test" />
+          </list>
+        </option>
+        <option name="vmOptions" />
+      </ExternalSystemSettings>
+      <GradleScriptDebugEnabled>false</GradleScriptDebugEnabled>
+      <method v="2" />
+    </configuration>
+    <configuration name="UserTest.getGit" type="GradleRunConfiguration" factoryName="Gradle" temporary="true">
+      <ExternalSystemSettings>
+        <option name="executionName" />
+        <option name="externalProjectPath" value="$PROJECT_DIR$" />
+        <option name="externalSystemIdString" value="GRADLE" />
+        <option name="scriptParameters" value="--tests &quot;com.dumisani.spring.part1.UserTest.getGit&quot;" />
+        <option name="taskDescriptions">
+          <list />
+        </option>
+        <option name="taskNames">
+          <list>
             <option value=":test" />
           </list>
         </option>
@@ -166,26 +179,6 @@
         <option name="externalProjectPath" value="$PROJECT_DIR$" />
         <option name="externalSystemIdString" value="GRADLE" />
         <option name="scriptParameters" value="--tests &quot;com.dumisani.spring.part1.UserTest.getUser&quot;" />
-        <option name="taskDescriptions">
-          <list />
-        </option>
-        <option name="taskNames">
-          <list>
-            <option value=":cleanTest" />
-            <option value=":test" />
-          </list>
-        </option>
-        <option name="vmOptions" />
-      </ExternalSystemSettings>
-      <GradleScriptDebugEnabled>false</GradleScriptDebugEnabled>
-      <method v="2" />
-    </configuration>
-    <configuration name="UserTest.removeUser" type="GradleRunConfiguration" factoryName="Gradle" temporary="true">
-      <ExternalSystemSettings>
-        <option name="executionName" />
-        <option name="externalProjectPath" value="$PROJECT_DIR$" />
-        <option name="externalSystemIdString" value="GRADLE" />
-        <option name="scriptParameters" value="--tests &quot;com.dumisani.spring.part1.UserTest.removeUser&quot;" />
         <option name="taskDescriptions">
           <list />
         </option>
@@ -216,19 +209,19 @@
     </configuration>
     <list>
       <item itemvalue="Application.Main" />
-      <item itemvalue="Gradle.UserTest.addUser" />
       <item itemvalue="Gradle.UserTest.getUser" />
-      <item itemvalue="Gradle.UserTest.removeUser" />
       <item itemvalue="Gradle.UserTest" />
+      <item itemvalue="Gradle.UserTest.getGit" />
+      <item itemvalue="Gradle.UserTest.getCommits" />
       <item itemvalue="JUnit.All Tests" />
     </list>
     <recent_temporary>
       <list>
+        <item itemvalue="Gradle.UserTest.getCommits" />
+        <item itemvalue="Gradle.UserTest.getGit" />
         <item itemvalue="Application.Main" />
         <item itemvalue="Gradle.UserTest" />
         <item itemvalue="Gradle.UserTest.getUser" />
-        <item itemvalue="Gradle.UserTest.removeUser" />
-        <item itemvalue="Gradle.UserTest.addUser" />
       </list>
     </recent_temporary>
   </component>
@@ -280,31 +273,43 @@
       <screen x="0" y="0" width="1280" height="800" />
     </state>
     <state x="335" y="252" key="ANALYSIS_DLG_com.intellij.analysis.BaseAnalysisAction$1/0.0.1280.800@0.0.1280.800" timestamp="1586880478859" />
-    <state width="1238" height="411" key="GridCell.Tab.0.bottom" timestamp="1590068728233">
-      <screen x="0" y="0" width="1280" height="800" />
+    <state x="227" y="22" key="CommitChangelistDialog2" timestamp="1590344245848">
+      <screen x="0" y="22" width="1280" height="778" />
+    </state>
+    <state x="227" y="22" key="CommitChangelistDialog2/0.22.1280.778@0.22.1280.778" timestamp="1590344245848" />
+    <state width="1238" height="172" key="GridCell.Tab.0.bottom" timestamp="1590342848202">
+      <screen x="0" y="22" width="1280" height="778" />
     </state>
     <state width="1238" height="411" key="GridCell.Tab.0.bottom/0.0.1280.800@0.0.1280.800" timestamp="1590068728233" />
-    <state width="1238" height="150" key="GridCell.Tab.0.bottom/0.22.1280.778@0.22.1280.778" timestamp="1586938404073" />
-    <state width="1238" height="411" key="GridCell.Tab.0.center" timestamp="1590068728231">
-      <screen x="0" y="0" width="1280" height="800" />
+    <state width="1238" height="172" key="GridCell.Tab.0.bottom/0.22.1280.778@0.22.1280.778" timestamp="1590342848202" />
+    <state width="1238" height="172" key="GridCell.Tab.0.center" timestamp="1590342848200">
+      <screen x="0" y="22" width="1280" height="778" />
     </state>
     <state width="1238" height="411" key="GridCell.Tab.0.center/0.0.1280.800@0.0.1280.800" timestamp="1590068728231" />
-    <state width="1238" height="150" key="GridCell.Tab.0.center/0.22.1280.778@0.22.1280.778" timestamp="1586938404071" />
-    <state width="1238" height="411" key="GridCell.Tab.0.left" timestamp="1590068728231">
-      <screen x="0" y="0" width="1280" height="800" />
+    <state width="1238" height="172" key="GridCell.Tab.0.center/0.22.1280.778@0.22.1280.778" timestamp="1590342848200" />
+    <state width="1238" height="172" key="GridCell.Tab.0.left" timestamp="1590342848200">
+      <screen x="0" y="22" width="1280" height="778" />
     </state>
     <state width="1238" height="411" key="GridCell.Tab.0.left/0.0.1280.800@0.0.1280.800" timestamp="1590068728231" />
-    <state width="1238" height="150" key="GridCell.Tab.0.left/0.22.1280.778@0.22.1280.778" timestamp="1586938404071" />
-    <state width="1238" height="411" key="GridCell.Tab.0.right" timestamp="1590068728232">
-      <screen x="0" y="0" width="1280" height="800" />
+    <state width="1238" height="172" key="GridCell.Tab.0.left/0.22.1280.778@0.22.1280.778" timestamp="1590342848200" />
+    <state width="1238" height="172" key="GridCell.Tab.0.right" timestamp="1590342848201">
+      <screen x="0" y="22" width="1280" height="778" />
     </state>
     <state width="1238" height="411" key="GridCell.Tab.0.right/0.0.1280.800@0.0.1280.800" timestamp="1590068728232" />
-    <state width="1238" height="150" key="GridCell.Tab.0.right/0.22.1280.778@0.22.1280.778" timestamp="1586938404072" />
-    <state x="128" y="22" key="SettingsEditor" timestamp="1590067999037">
-      <screen x="0" y="0" width="1280" height="800" />
+    <state width="1238" height="172" key="GridCell.Tab.0.right/0.22.1280.778@0.22.1280.778" timestamp="1590342848201" />
+    <state x="128" y="22" key="SettingsEditor" timestamp="1590342620162">
+      <screen x="0" y="22" width="1280" height="778" />
     </state>
     <state x="128" y="22" key="SettingsEditor/0.0.1280.800@0.0.1280.800" timestamp="1590067999037" />
-    <state x="128" y="22" key="SettingsEditor/0.22.1280.778@0.22.1280.778" timestamp="1586936348318" />
+    <state x="128" y="22" key="SettingsEditor/0.22.1280.778@0.22.1280.778" timestamp="1590342620162" />
+    <state width="500" height="445" key="SwitcherDM" timestamp="1590344447504">
+      <screen x="0" y="22" width="1280" height="778" />
+    </state>
+    <state width="500" height="445" key="SwitcherDM/0.22.1280.778@0.22.1280.778" timestamp="1590344447504" />
+    <state x="240" y="151" key="Vcs.Push.Dialog.v2" timestamp="1590344259305">
+      <screen x="0" y="22" width="1280" height="778" />
+    </state>
+    <state x="240" y="151" key="Vcs.Push.Dialog.v2/0.22.1280.778@0.22.1280.778" timestamp="1590344259305" />
     <state x="435" y="185" key="chooseDestDirectoryDialog" timestamp="1586938680792">
       <screen x="0" y="0" width="1280" height="800" />
     </state>
@@ -315,14 +320,30 @@
     </state>
     <state x="319" y="227" key="com.intellij.ide.util.TipDialog/0.0.1280.800@0.0.1280.800" timestamp="1586783680315" />
     <state x="319" y="243" key="com.intellij.ide.util.TipDialog/0.22.1280.778@0.22.1280.778" timestamp="1586274247232" />
+    <state x="431" y="332" key="com.intellij.openapi.vcs.update.UpdateOrStatusOptionsDialogupdate-v2" timestamp="1590344204332">
+      <screen x="0" y="22" width="1280" height="778" />
+    </state>
+    <state x="431" y="332" key="com.intellij.openapi.vcs.update.UpdateOrStatusOptionsDialogupdate-v2/0.22.1280.778@0.22.1280.778" timestamp="1590344204332" />
     <state x="407" y="167" key="com.intellij.testIntegration.createTest.CreateTestDialog" timestamp="1586936755608">
       <screen x="0" y="22" width="1280" height="778" />
     </state>
     <state x="407" y="149" key="com.intellij.testIntegration.createTest.CreateTestDialog/0.0.1280.800@0.0.1280.800" timestamp="1586880502898" />
     <state x="407" y="167" key="com.intellij.testIntegration.createTest.CreateTestDialog/0.22.1280.778@0.22.1280.778" timestamp="1586936755608" />
+    <state x="399" y="206" key="git4idea.merge.GitMergeDialog" timestamp="1590344236785">
+      <screen x="0" y="22" width="1280" height="778" />
+    </state>
+    <state x="399" y="206" key="git4idea.merge.GitMergeDialog/0.22.1280.778@0.22.1280.778" timestamp="1590344236785" />
+    <state x="307" y="206" key="git4idea.merge.GitPullDialog" timestamp="1590344286772">
+      <screen x="0" y="22" width="1280" height="778" />
+    </state>
+    <state x="307" y="206" key="git4idea.merge.GitPullDialog/0.22.1280.778@0.22.1280.778" timestamp="1590344286772" />
     <state x="34" y="22" key="new project wizard" timestamp="1586939975506">
       <screen x="0" y="0" width="1280" height="800" />
     </state>
     <state x="34" y="22" key="new project wizard/0.0.1280.800@0.0.1280.800" timestamp="1586939975506" />
+    <state x="305" y="124" key="search.everywhere.popup" timestamp="1590344489729">
+      <screen x="0" y="22" width="1280" height="778" />
+    </state>
+    <state x="305" y="124" key="search.everywhere.popup/0.22.1280.778@0.22.1280.778" timestamp="1590344489729" />
   </component>
 </project>
