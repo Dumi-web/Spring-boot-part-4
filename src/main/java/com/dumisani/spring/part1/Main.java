@@ -16,7 +16,7 @@ public class Main {
         SpringApplication.run(Main.class, args);
     }
 
- /*   @Bean
+    @Bean
     CommandLineRunner lookup() throws MalformedURLException {
         URL url = new URL("http://localhost:9090/ws/countries.wsdl");
         CountriesPortService employeeService_Service = new CountriesPortService(url);
@@ -33,7 +33,7 @@ public class Main {
         System.out.println("Currency: " + currency);
         System.out.println("Capital: " + capital);
         System.out.println("Population " + population);
-        return null;*/
+        return null;
     }
 
 
