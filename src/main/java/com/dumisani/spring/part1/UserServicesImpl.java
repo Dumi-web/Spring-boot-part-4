@@ -27,13 +27,23 @@ public class UserServicesImpl implements UserServices {
         fakeRepo = new FakeRepo();
         return fakeRepo.deleteUser(1);
     }
-@Override
-public  String getGit(){
+    
+    @GetMapping("/listRepos")
+    public ResponseEntity<String> getGit(){
     RestTemplate template = new RestTemplate();
-    String userResourceUrl = "https://api.github.com";
+    String userResourceUrl = "https://api.github.com/users/dumi-web/repos";
 
-    ResponseEntity<String> response = template.getForEntity(userResourceUrl + "/orgs/octokit/repos", String.class);
-    System.out.println("response " + response.toString());
-    return response.toString();
+    ResponseEntity<String> response = template.getForEntity(userResourceUrl, String.class);
+    System.out.println("response " + response);
+    return response;
 }
+    @GetMapping("/list/commits")
+    public ResponseEntity<String> getCommits() {
+        RestTemplate template = new RestTemplate();
+        String userResourceUrl = "https://api.github.com/repos/dumi-web/addLogs/commits";
+
+        ResponseEntity<String> output = template.getForEntity(userResourceUrl, String.class);
+        System.out.println("response " + output);
+        return output;
+    }
 }
